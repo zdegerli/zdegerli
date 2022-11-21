@@ -2,7 +2,7 @@ Hi there! My name is Dilara, I am a business IT student at the University of Bre
 
 ### 📫Contact
 
-<a href="https://www.linkedin.com/in/zeynep-dilara-de%C4%9Ferliyurt-633699217/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0078D6?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+<p align="left"> <a href="https://www.linkedin.com/in/zeynep-dilara-de%C4%9Ferliyurt-633699217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Languages and tools 👩‍💻
 
