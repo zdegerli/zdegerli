@@ -1,4 +1,6 @@
-Hi there! My name is Dilara, I am a business IT student at the University of Bremen in Germany. Aditionally, I work as a software developer.  
+Hi there! My name is Dilara, I am a business IT student at the University of Bremen in Germany. Aditionally, I work as a software developer.
+
+📫 How to reach me: https://www.linkedin.com/in/zeynep-dilara-değerliyurt
 
 ## Languages and tools 👩‍💻
 
