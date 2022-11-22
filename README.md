@@ -16,11 +16,10 @@ Hi there! My name is Dilara, I am a business IT student at the University of Bre
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107054085/203184918-a7561a58-5b6a-48f9-8b14-c9b45775f16b.svg" width="36" height="36" alt="git" /></a>
 <a href="[https://git-scm.com/](https://about.gitlab.com/)" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107054085/203185141-1c27ca90-8ca4-4d7d-8746-4fea02d3b6c9.svg" width="36" height="36" alt="GitLab" /></a>
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107054085/203185722-ee7ca03e-7375-4950-bd20-9f2f349e507c.svg" width="36" height="36" alt="Sublime Text" /></a>
-<a href="https://www.jobrouter.com/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107054085/203187828-83bcf875-f0e5-4cde-97cf-2e0a75285f74.svg" width="36" height="36" alt="JobRouter" /></a>
+<a href="https://www.jobrouter.com/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107054085/203187969-42d2b126-5036-41e4-89ca-96f8778ffdc5.svg" width="90" height="36" alt="JobRouter" /></a>
 </p>
 <img alt="Codewars" src= "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">
 
-    
 
 ### Projects
 
